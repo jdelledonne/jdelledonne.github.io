@@ -29,13 +29,14 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Source Code Pro', monospace;
+    color: #d5d5d5;
 }
 
 p {
     font-size: 1.5em;
     font-family:'Source Code Pro', monospace;
     line-height: 1.4em;
-    color: #c5c;
+    color: rgb(171, 234, 224);
 }
 
 footer {
