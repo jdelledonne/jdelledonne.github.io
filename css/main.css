@@ -1,10 +1,11 @@
 body {
     margin: 60px auto;
+    background: #0f0f23;
     width: 70%;
 }
 
 nav ul, footer ul {
-    font-family:'Roboto Mono';
+    font-family:'Source Code Pro', monospace;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -26,14 +27,14 @@ a:hover {
 
 h1 {
     font-size: 3em;
-    font-family:'Lucida Console', Monaco, monospace;
+    font-family:'Source Code Pro', monospace;
 }
 
 p {
     font-size: 1.5em;
-    font-family:'Roboto Mono';
+    font-family:'Source Code Pro', monospace;
     line-height: 1.4em;
-    color: #333;
+    color: #cccccc;
 }
 
 footer {
