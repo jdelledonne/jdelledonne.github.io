@@ -4,7 +4,7 @@ body {
 }
 
 nav ul, footer ul {
-    font-family:'Lucida Console', Monaco, monospace;
+    font-family:'Roboto Mono';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -31,7 +31,7 @@ h1 {
 
 p {
     font-size: 1.5em;
-    font-family:'Lucida Console', Monaco, monospace;
+    font-family:'Roboto Mono';
     line-height: 1.4em;
     color: #333;
 }
