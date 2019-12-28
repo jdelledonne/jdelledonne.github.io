@@ -39,9 +39,8 @@ p {
     color: rgb(171, 234, 224);
 }
 
-p.footer {
-    font-size: .8em;
-    color: #d5d5d5;
+header {
+    border-bottom: 1px solid #d5d5d5;
 }
 
 footer {
