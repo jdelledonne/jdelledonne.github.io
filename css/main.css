@@ -1,12 +1,12 @@
 body {
     margin: 60px auto;
     background-color: #0f0f23;
-    font-family:'Source Code Pro', monospace;
+    font-family:'Lucida Console', Monaco, monospace;
     width: 70%;
 }
 
 nav ul, footer ul {
-    font-family:'Source Code Pro', monospace;
+    font-family:'Lucida Console', Monaco, monospace;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -28,13 +28,13 @@ a:hover {
 
 h1 {
     font-size: 3em;
-    font-family:'Source Code Pro', monospace;
+    font-family:'Lucida Console', Monaco, monospace;
     color: #d5d5d5;
 }
 
 p {
     font-size: 1.5em;
-    font-family:'Source Code Pro', monospace;
+    font-family:'Lucida Console', Monaco, monospace;
     line-height: 1.4em;
     color: rgb(171, 234, 224);
 }
