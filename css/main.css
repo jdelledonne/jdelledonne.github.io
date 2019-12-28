@@ -59,7 +59,8 @@ ul.posts li {
     color: #d5d5d5;
 }
 
-em {
+.glow {
     text-shadow: 0 0 5px #ffffff;
+    font-style: normal;
 }
 
