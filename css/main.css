@@ -58,3 +58,10 @@ ul.posts li {
     list-style: none;
     color: #d5d5d5;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
