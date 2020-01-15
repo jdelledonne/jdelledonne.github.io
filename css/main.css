@@ -60,7 +60,13 @@ ul.posts li {
 }
 
 .glow {
-    text-shadow: 0 0 5px #ffffff;
+    text-shadow: 0 0 5px #9eff9f;
     font-style: normal;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
